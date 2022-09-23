@@ -420,6 +420,7 @@ header .container .fa-magnifying-glass {
   width: 100%;
   background-color: white;
   border-top: 1px solid #f5f5f5;
+  z-index: 1000;
 }
 .bottom-nav .items {
   width: 100%;
